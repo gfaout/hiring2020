@@ -31,7 +31,6 @@ This document will be updated regularly as new information becomes available. **
 |Impinj|US|Internship|<ul><li>[Systems Engineering Intern](https://jobs.jobvite.com/impinj/job/ovnBcfwp)</li></ul>|
 |B. Braun Medical|US|Internship|<ul><li>[Multiple](https://bbrauncareers-bbraun.icims.com/jobs/search?ss=1&searchRelation=keyword_all&searchPositionType=8710)</li></ul>|
 |SAP|US|Internship|<ul><li>[Multiple](https://jobs.sap.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_department=&optionsFacetsDD_customfield3=Student&optionsFacetsDD_country=US)</li></ul>|
-|HP|US|Internship|<ul><li>[Data Sciences and Machine Learning Intern](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/Data-Sciences-and-Machine-Learning-Intern_3061295-1)</li></ul>|
 |Klara|US|Internship|<ul><li>[Product Management MBA Internship](https://boards.greenhouse.io/klara/jobs/4731919002?t=dffe74522us)</li></ul>|
 |Klara|US|Internship|<ul><li>[Go-to-Market MBA Internship](https://boards.greenhouse.io/klara/jobs/4731917002?t=dffe74522us)</li></ul>|
 |Fivestars|US|Internship|<ul><li>[IT Office Intern](https://www.fivestars.com/careers/?gh_jid=2185594)</li></ul>|
@@ -87,7 +86,6 @@ This document will be updated regularly as new information becomes available. **
 |Argo AI|US|Internship|<ul><li>[Software Engineering Intern, Onboard Infrastructure, C++](https://www.argo.ai/join-us/#j1862007)</li></ul>|
 |Pogo|US|Internship|<ul><li>[Product Design Summer Intern](https://jumpstart.me/discover/jobs/pogo/product-design-summer-intern/b231a633-9736-43d5-a44b-8accd2f31452)</li></ul>|
 |Pogo|US|Full-time|<ul><li>[Fullstack Software Engineer](https://jumpstart.me/discover/jobs/pogo/fullstack-software-engineer/bb940d77-f148-4a9d-896e-3dd2a9a2a3ca)</li></ul>|
-|Mulberry|US|Internship|<ul><li>[Data Science & Analytics Internship](https://hire.withgoogle.com/public/jobs/getmulberrycom/view/P_AAAAAADAAHXDQ22ttRRRVq)</li></ul>|
 |The Round|US|Internship|<ul><li>[Marketing Intern](https://www.notion.so/Marketing-Intern-The-Round-72c0eb64d4584abe80967bdc5e0dbcfc)</li></ul>|
 |The Round|US|Internship|<ul><li>[Intern - Full-stack Engineer](https://www.notion.so/Intern-Full-stack-Engineer-The-Round-746146bc54b94ba382ca06f7e460555e)</li></ul>|
 |Zipline|US|Co-op/Internship|<ul><li>[Electrical Engineer](https://jobs.lever.co/flyzipline/8d73b761-13bb-45a7-8c69-e793dfc28ddc)</li></ul>|
