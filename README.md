@@ -1,7 +1,6 @@
 # Jobs for College Students
-This document will be updated regularly as new information becomes available. **Alternatively, you can use our website** - [www.hiring20.com](https://hiring20.com/)
 
-**Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.**
+This document is no longer being updated. For regular job updates, **follow us on [Linkedin](https://www.linkedin.com/company/hiring20) **.
 
 ### Actively Hiring List
 
